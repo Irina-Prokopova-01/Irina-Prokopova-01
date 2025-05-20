@@ -7,6 +7,7 @@
   * Базы данный: PostgreSQL
   * Технологии: RestAPI, Docker, Git
 ## Мои проекты
+  * https://github.com/Irina-Prokopova-01/Online_grocery_store/tree/develop
   * https://github.com/Irina-Prokopova-01/Electronics_store
   * https://github.com/Irina-Prokopova-01/SB1_diplom
   * https://github.com/Irina-Prokopova-01/Habit_tracker_3
